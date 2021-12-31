@@ -1,8 +1,10 @@
 #include <stdio.h>
 int main(void)
 {
-int x = get_String("What's your name? ");
+string x = get_String("What's your name? ");
 
 printf("Hello, %s \n",x);
+  
+
 }
 
